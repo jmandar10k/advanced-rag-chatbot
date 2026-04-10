@@ -1,0 +1,22 @@
+# Environment
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual env
+.venv/
+venv/
+
+# System
+.DS_Store
+
+# Local DB
+*.db
+
+# Ignore personal files
+advance_rag.py
+practice.py
