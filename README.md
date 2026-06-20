@@ -8,8 +8,6 @@ An intelligent document-based chatbot powered by **Retrieval-Augmented Generatio
 
 > 💡 Upload any PDF → Ask questions → Get accurate, context-aware answers in real time.
 
-[🔗 Live Demo](#) 
-
 ---
 
 ## 🧠 What Makes This Advanced?
